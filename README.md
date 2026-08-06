@@ -7,3 +7,6 @@ Linguagens de Programação
 # Aprendendo JavaScript
 
 # Eu não gosto de goiaba
+
+# Programador
+- Patrick Samuel
