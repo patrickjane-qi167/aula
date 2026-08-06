@@ -10,4 +10,5 @@ Linguagens de Programação
 
 # Programador
 - Patrick Samuel
+
 "Quem com ferro fere, com ferro será feriado"
