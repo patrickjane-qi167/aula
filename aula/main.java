@@ -1,5 +1,5 @@
 package aula;
 
-public class Main {
+public class main {
     
 }
